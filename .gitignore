@@ -1,5 +1,8 @@
 .github/**
 
+# Ignore ML training files
+intro-to-pytorch/Cat_Dog_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
